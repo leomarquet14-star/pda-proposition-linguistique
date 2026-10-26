@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://leomarquet14-star.github.io/linguistique-autoreferentielle/sitemap.xml
